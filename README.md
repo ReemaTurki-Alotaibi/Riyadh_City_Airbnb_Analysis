@@ -113,15 +113,17 @@ import joblib
 joblib.dump(best_model, 'price_model_rf_enhanced.joblib')
 print("Model saved as 'price_model_rf_enhanced.joblib'")
 
-- Model saved for future use in prediction tasks
+Model saved for future use in prediction tasks.
 
 📊 Dashboard
 
-Tableau Dashboard: Interactive visualizations to explore dataset insights
+**Tableau Dashboard:** Interactive dashboard to explore project dataset insights.
 
-Dashboard Link
- ()
+**Dashboard Link:** ()
 
 📬 Contact / Author
 
-Author: Reema Alotaibi
+**Author:** Reema Alotaibi
+
+👩‍💻 Authors  
+🔗 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)
