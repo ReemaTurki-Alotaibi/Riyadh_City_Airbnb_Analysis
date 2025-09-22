@@ -95,15 +95,15 @@ print("Model saved as 'price_model_rf_enhanced.joblib'")
 
 Model saved for future use in prediction tasks.
 
-📊 Dashboard
+## 📊 Dashboard
 
 Tableau Dashboard: Interactive dashboard to explore project dataset insights.
 
-Dashboard Link: (insert link when publishing)
+Dashboard Link: ()
 
-📬 Contact / Author
+## 📬 Contact / Author
 
 Author: Reema Alotaibi
 
 
-🔗 LinkedIn (https://www.linkedin.com/in/reematurki-alotaibi)
+## 🔗 LinkedIn (https://www.linkedin.com/in/reematurki-alotaibi)
